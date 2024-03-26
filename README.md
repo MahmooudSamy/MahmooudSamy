@@ -2,6 +2,7 @@
 <h3 align="center">I'm a .NET Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmooudsamy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmooudsamy" /> </p>
+[![GitHub Mahmoud Samy](https://img.shields.io/github/followers/MahmooudSamy?label=follow&style=social)](https://github.com/MahmooudSamy)
 
 - 🔭 I’m currently working on **My website and my blog**
 
